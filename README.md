@@ -1,5 +1,7 @@
 # Salesforce HAR Visualizer
 
+# In-Progress
+
 A VS Code extension for analyzing network traffic of Salesforce pages made easy.
 
 ## Features

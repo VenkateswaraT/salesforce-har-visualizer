@@ -1,6 +1,10 @@
 {
   "name": "salesforce-har-visualizer",
   "displayName": "salesforce har visualizer",
+  "publisher": "venkateswarat",
+  "repository": {
+    "url": "https://github.com/VenkateswaraT/salesforce-har-visualizer"
+  },
   "description": "analyzing the networks of salesforce page made eazy",
   "version": "0.0.1",
   "engines": {
